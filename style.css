@@ -14,7 +14,6 @@ body {
     margin-right: auto;
 }
 
-
 .header {
     height: 100px;
     display: flex;
@@ -70,3 +69,4 @@ body {
     background-color: #2c71b8;
     color:white;
 }
+
